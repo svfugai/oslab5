@@ -144,11 +144,6 @@
   <ItemGroup>
     <ClCompile Include="dlluser.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\dll\dll.vcxproj">
-      <Project>{2d2be90d-45a9-4612-94bb-260104917763}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

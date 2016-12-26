@@ -8,9 +8,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll", "dll\dll.vcxproj", "{2D2BE90D-45A9-4612-94BB-260104917763}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlluser", "dlluser\dlluser.vcxproj", "{143B7B69-B122-42BA-9291-C28987424C1A}"
-	ProjectSection(ProjectDependencies) = postProject
-		{2D2BE90D-45A9-4612-94BB-260104917763} = {2D2BE90D-45A9-4612-94BB-260104917763}
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
